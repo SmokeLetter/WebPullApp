@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+div#general{
+  margin: auto;
+  margin-top: 0px;
+  width: 100%;
+  height: 775px;
+  background:url(./img/mi.webp)
+  no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+
+div#info{
+  margin: auto;
+  margin-top: 0px;
+  width: 100%;
+  height: 760px;
+  background: blue;
+}
+
+div#des{
+  margin:down;
+  margin-top: -20px;
+  width: 500px;
+  height: 758px;
+  background: grey;
+}
